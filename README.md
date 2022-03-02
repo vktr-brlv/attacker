@@ -26,10 +26,8 @@
 
 # Для людей які мають кубернетіс кластер )
 
-'''
-kubectl run attack --image=lvinni/russian-warship-go-fuckyourself
-kubectl logs -f attack
-'''
+1. kubectl run attack --image=lvinni/russian-warship-go-fuckyourself
+2. kubectl logs -f attack
 
 ## Для людей, не дуже обізнаних в інформатиці, користувачів Windows 7-11
 
@@ -84,10 +82,9 @@ You can install a docker like this - https://ravesli.com/ustanovka-docker-v-wind
 2. sudo docker run lvinni / russian-warship-go-fuckyourself
 
 # For people with access to kubernetes cluster
-'''
-kubectl run attack --image=lvinni/russian-warship-go-fuckyourself
-kubectl logs -f attack
-'''
+
+1. kubectl run attack --image=lvinni/russian-warship-go-fuckyourself
+2. kubectl logs -f attack
 
 ## For people who are not very familiar with computer science, users of Windows 7-11
 
